@@ -1,4 +1,4 @@
-Metal,Electric conductivity (10.E6 Siemens/m),Electric resistivity (10.E-8 Ohms.m),Thermal conductivity (W/m.K),Thermal expansion factor 10E-6(K-1) de 0 à 100°C,Density (g/cm3),Melting or deterioration temperature (°C)
+Metal,Electric Conductivity (10.E6 Siemens/m),Electric Resistivity (10.E-8 Ohms.m),Thermal Conductivity (W/m.K),Thermal Expansion Factor 10E-6(K-1) de 0 à 100°C,Density (g/cm3),Melt/Deteriorate Temp (°C)
 Silver,"62,1","1,6",420,"19,1","10,5",961
 Copper,"58,7","1,7",386,17,"8,9",1083
 Gold,"44,2","2,3",317,"14,1","19,4",1064
